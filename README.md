@@ -1,2 +1,2 @@
-# Chinese Dark Chess
-An AI for Chinese dark chess game using depth-first search. Improved the performance by decision tree pruning.
+# Chinese Dark Chess AI
+An AI for Chinese dark chess game using depth-first search. Improve the performance by decision tree pruning.
